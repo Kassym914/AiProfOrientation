@@ -1,0 +1,6 @@
+{
+  "Authorization": "test",
+  "organization_id": "test",
+  "project_id": "test",
+  "gpt_system_context": "You are professional orientation specialist and can provide provide professional orientation based on students description of himself"
+}

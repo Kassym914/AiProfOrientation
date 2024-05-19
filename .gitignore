@@ -1,0 +1,11 @@
+venv/
+.idea/
+__pycache__/
+*.log
+env/
+**/__pycache__
+/venv
+/env
+bin/
+logs/
+files/
